@@ -173,7 +173,7 @@
   --bs-danger-border-subtle: #8b2e24;
   --bs-light-border-subtle: #7b8a8b;
   --bs-dark-border-subtle: #7b8a8b;
-  --bs-heading-color: #fff;
+  --bs-heading-color: rgb(27,27,27);
   --bs-link-color: #8a949e;
   --bs-link-hover-color: #b1b7be;
   --bs-link-color-rgb: 138, 148, 158;
